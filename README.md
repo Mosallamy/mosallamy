@@ -1,5 +1,4 @@
-## Welcome 😊
-## I'm Khalid Almosallamy and I'm a software backend developer
+## Welcome 😊 I'm Khalid Almosallamy and I'm a software backend developer
 
 <!--
 **Mosallamy/mosallamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
